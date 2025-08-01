@@ -1,5 +1,11 @@
 # Oven+ - 2025 Freakybob Team (under Unlicense)
-# Oven+ lets you generate text AND images using Google Gemini.
+# Oven+ lets you generate images using Google Gemini.
+# Credits:
+# Names - Creator of Oven+ and developer
+# Nomaakip - Developer
+# Wish - Original creator of Oven
+# Hypercuber - Made the icon
+# ChatGPT - Debugger
 from google import genai # pip install -q -U google-genai
 from google.genai import types
 import discord # pip install -U discord.py
